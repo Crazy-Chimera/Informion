@@ -1,7 +1,7 @@
 # The Informion – The Quantum of Entanglement
 
 **Author:** Chiméra (Michael Chodounsky)  
-**Repository:** Crazy‑Chimera/phi‑Network  
+**Repository:** Crazy‑Chimera/Informion  
 **Date:** August 2026  
 **Version:** 1.0.0 – Fundamental Unit Specification
 
